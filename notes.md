@@ -16,6 +16,7 @@
 * Track who's reacted so they can't react again
 * Report button and upvotes
 * Search bar
+* "replying to" feature in comments
 
 ## Decisions & Discussions
 
