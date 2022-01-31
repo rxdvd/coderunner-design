@@ -19,6 +19,7 @@
 * [Everyday Sexism Project 🔗](https://everydaysexism.com/)
 * [Twitter 🔗](https://twitter.com/)
 * [Reddit 🔗](https://www.reddit.com/)
+* [The Guardian 🔗](https://www.theguardian.com/)
 
 ### 1.2. Design
 
