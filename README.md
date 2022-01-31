@@ -60,6 +60,7 @@
 | `GET /post/:pid` | Return a JSON object with data for a specific post |
 | `POST /posts` | Create a new post data entry |
 | `POST /post/:pid/emoji` | Add or remove an emoji reaction from a post |
+| `POST /post/:pid/comments` | Create a new comment on a post |
 
 #### `POST /posts` request body
 
@@ -77,5 +78,12 @@
 {
     "emoji": "thumbs_up",
     "uid": "325346346" // cookie so that users can add/remove reactions
+}
+```
+#### `POST /posts/:pid/comments` request body
+
+```json
+{
+    "message": "message"
 }
 ```
