@@ -17,6 +17,8 @@
 * Report button and upvotes
 * Search bar
 * "replying to" feature in comments
+* sort by
+* captcha
 
 ## Decisions & Discussions
 
