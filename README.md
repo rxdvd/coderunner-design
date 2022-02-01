@@ -39,7 +39,7 @@
         {
             "id": 0,
             "message": "message",
-            "time": 0
+            "timestamp": 0
         }
     ],
     "reactions": {
@@ -49,7 +49,7 @@
         "thumbs_down": [],
         "heart": []
     },
-    "time": 0
+    "timestamp": 0
 }
 ```
 
