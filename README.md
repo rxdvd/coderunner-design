@@ -38,7 +38,7 @@
     "comments": [
         {
             "id": 0,
-            "message": "message",
+            "comment": "message",
             "timestamp": 0
         }
     ],
@@ -85,6 +85,6 @@
 
 ```json
 {
-    "message": "message"
+    "comment": "message"
 }
 ```
