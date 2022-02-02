@@ -12,4 +12,27 @@
 ## Monday
 
 * Finalised design choices
-* Implemented the core features
+* Started implementing the core features
+
+## Tuesday
+
+* Began writing tests
+* Finished API routes
+* Implemented Giphy functionality
+* Implemented rendering for posts list and single post view
+* Refactoring on both client and server side
+
+## Wednesday
+
+* Added favicon
+* Finished testing on server side
+* Finished core features on client side
+  * Submitting posts and comments
+  * Pagination
+  * Emoji reactions
+* Added some extra features
+  * Characters remaining count on message input fields
+  * Sorting posts by newest, oldest and most reacted
+  * Adding tags to posts to filter by keywords
+* Started debugging
+
