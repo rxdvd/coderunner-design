@@ -14,11 +14,12 @@
 ## Features
 
 * Track who's reacted so they can't react again
-* Report button and upvotes
+* Report button and upvotes (delete posts?)
 * Search bar
 * "replying to" feature in comments
 * sort by
 * captcha
+* character limit display
 
 ## Decisions & Discussions
 
