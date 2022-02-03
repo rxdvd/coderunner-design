@@ -36,3 +36,9 @@
   * Adding tags to posts to filter by keywords
 * Started debugging
 
+## Thursday
+
+* Looked for and fixed bugs
+  * Error handling
+* Finished client side testing
+

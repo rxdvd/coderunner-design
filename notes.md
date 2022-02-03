@@ -18,6 +18,9 @@
 * "replying to" feature in comments
 * captcha
 * limit the tags that users can add to a selection
+* show trending gifs on first load
+* live post updates
+* scroll down after making a comment
 
 ## Decisions & Discussions
 
