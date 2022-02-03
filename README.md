@@ -49,6 +49,9 @@
         "thumbs_down": [],
         "heart": []
     },
+    "tags": [
+        "tag1", "tag2", "tag3"
+    ],
     "timestamp": 0
 }
 ```
@@ -60,7 +63,7 @@
 | `GET /posts` | Return a JSON object of all post data |
 | `GET /posts/:pid` | Return a JSON object with data for a specific post |
 | `POST /posts` | Create a new post data entry |
-| `POST /posts/:pid/emoji` | Add or remove an emoji reaction from a post |
+| `PATCH /posts/:pid/emoji` | Add or remove an emoji reaction from a post |
 | `POST /posts/:pid/comments` | Create a new comment on a post |
 
 #### `POST /posts` request body
@@ -69,11 +72,14 @@
 {
     "title": "title",
     "message": "message",
-    "giphy": "giphy_url"
+    "giphy": "giphy_url",
+    "tags": [
+        "tag1", "tag2", "tag3"
+    ]
 }
 ```
 
-#### `POST /posts/:pid/emoji` request body
+#### `PATCH /posts/:pid/emoji` request body
 
 ```json
 {
