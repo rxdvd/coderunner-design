@@ -23,7 +23,7 @@
 
 ### 1.2. Design
 
-<!-- image here -->
+![Figma Design](figma.png)
 
 ## Server
 

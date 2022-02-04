@@ -42,3 +42,7 @@
   * Error handling
 * Finished client side testing
 
+## Friday
+
+* Sorted out any final deploy related issues.
+* Prepared a presentation.
