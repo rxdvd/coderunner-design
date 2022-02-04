@@ -1,4 +1,4 @@
-# General Notes
+# Misc. Notes
 
 ## Design
 
@@ -6,10 +6,6 @@
 * 420 character limit in message
 * Minimum character limit? (can you write a meaningful message/comment in 1 character?)
 * 1 gif limit
-
-## Technologies
-
-* Bootstrap
 
 ## Features
 
